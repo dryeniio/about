@@ -459,6 +459,7 @@
 .u-section-4 .u-text-1 {
   text-transform: uppercase;
   font-weight: 900;
+  font-size: 3rem;
   margin: 0;
 }
 
@@ -518,10 +519,6 @@
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 143px;
-  }
-
-  .u-section-4 .u-text-1 {
-    font-size: 3rem;
   }
 
   .u-section-4 .u-layout-cell-3 {
